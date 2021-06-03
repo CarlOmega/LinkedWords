@@ -1,0 +1,9 @@
+_____________________________________________________________________________________
+Starting word: fard
+Sequence length: 92
+Found at: 0000.09
+Is sequence valid?: True
+Words tested: 314
+Time taken (secs): 0.140625
+Sequence: ['tars', 'para', 'cart', 'vara', 'darn', 'mart', 'carp', 'jarl', 'vary', 'earl', 'wars', 'barf', 'dart', 'farm', 'tarp', 'ward', 'fare', 'jars', 'park', 'barm', 'marc', 'hart', 'card', 'dare', 'pars', 'parr', 'yard', 'dark', 'bard', 'hare', 'carn', 'warp', 'nard', 'tare', 'earn', 'warn', 'mare', 'farl', 'harm', 'mark', 'nark', 'karn', 'gars', 'part', 'bars', 'pard', 'zarf', 'carb', 'barb', 'tarn', 'wart', 'nary', 'cark', 'vars', 'ware', 'rare', 'warm', 'tart', 'garb', 'barn', 'oars', 'sari', 'wary', 'yarn', 'harl', 'taro', 'mars', 'kart', 'ears', 'lark', 'carl', 'sard', 'lard', 'faro', 'fart', 'bark', 'sark', 'marl', 'cars', 'harp', 'hark', 'bare', 'wark', 'narc', 'pare', 'care', 'lars', 'yare', 'lari', 'hard', 'darb', 'fard']
+
